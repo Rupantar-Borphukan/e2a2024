@@ -45,7 +45,7 @@ const ContactUs = () => {
                   Assistant Professor, Department of E&I Engineering, NIT
                   Silchar
                 </p>
-                <p className="mt-1">Phone: +91-</p>
+                <p className="mt-1">Phone: +91-8011017849</p>
                 {/* <p className="mt-1">Email: <a href="mailto:seban@ei.nits.ac.in" rel="noreferrer">seban@ei.nits.ac.in</a></p> */}
               </li>
               <li className="member mt-4">
